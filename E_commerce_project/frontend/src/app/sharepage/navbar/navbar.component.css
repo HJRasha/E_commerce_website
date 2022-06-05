@@ -1,0 +1,11 @@
+.active-link
+{
+    font-weight: bold;
+    text-decoration: underline;
+}
+button{
+    margin-left: 20px;
+}
+a{
+    font-size: large;
+}

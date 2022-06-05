@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    
+    }
+    mat-form-field{
+        width: 70%;
+        padding-left: 40px;
+        padding-bottom: 10px;
+        position: center;
+    }
